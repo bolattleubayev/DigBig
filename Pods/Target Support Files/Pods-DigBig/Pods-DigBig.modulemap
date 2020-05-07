@@ -1,0 +1,6 @@
+framework module Pods_DigBig {
+  umbrella header "Pods-DigBig-umbrella.h"
+
+  export *
+  module * { export * }
+}

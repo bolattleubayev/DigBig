@@ -1,0 +1,159 @@
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "1Dw-CC-ZzS"; */
+"1Dw-CC-ZzS.text" = "Текст";
+
+/* Class = "UILabel"; text = "Attachment URL"; ObjectID = "1ki-9i-fOQ"; */
+"1ki-9i-fOQ.text" = "URL Вложения";
+
+/* Class = "UITabBarItem"; title = "Dues"; ObjectID = "1oj-BD-Dgc"; */
+"1oj-BD-Dgc.title" = "Задачи";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "4Cy-5d-bGp"; */
+"4Cy-5d-bGp.normalTitle" = "ЗАРЕГЕСТРИРОВАТЬСЯ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "51W-te-ask"; */
+"51W-te-ask.placeholder" = "EMAIL";
+
+/* Class = "UISegmentedControl"; 6uP-oP-9Sh.segmentTitles[0] = "Presentation"; ObjectID = "6uP-oP-9Sh"; */
+"6uP-oP-9Sh.segmentTitles[0]" = "Презентация";
+
+/* Class = "UISegmentedControl"; 6uP-oP-9Sh.segmentTitles[1] = "Document"; ObjectID = "6uP-oP-9Sh"; */
+"6uP-oP-9Sh.segmentTitles[1]" = "Документ";
+
+/* Class = "UISegmentedControl"; 6uP-oP-9Sh.segmentTitles[2] = "Link"; ObjectID = "6uP-oP-9Sh"; */
+"6uP-oP-9Sh.segmentTitles[2]" = "Ссылка";
+
+/* Class = "UILabel"; text = "Task Title"; ObjectID = "7Yx-NP-2Ig"; */
+"7Yx-NP-2Ig.text" = "Название задачи";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "855-EX-fif"; */
+"855-EX-fif.title" = "Логин";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8GZ-yZ-6ac"; */
+"8GZ-yZ-6ac.text" = "Текст";
+
+/* Class = "UILabel"; text = "photos"; ObjectID = "CDH-qO-vVl"; */
+"CDH-qO-vVl.text" = "фото";
+
+/* Class = "UINavigationItem"; title = "Dues"; ObjectID = "CZi-Is-qRB"; */
+"CZi-Is-qRB.title" = "Задачи";
+
+/* Class = "UILabel"; text = "Dig"; ObjectID = "Cud-pn-pw1"; */
+"Cud-pn-pw1.text" = "Dig";
+
+/* Class = "UINavigationItem"; title = "Sign Up"; ObjectID = "GGu-mw-cTU"; */
+"GGu-mw-cTU.title" = "Зарегестрироваться";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "Gjp-TC-d5M"; */
+"Gjp-TC-d5M.placeholder" = "ПАРОЛЬ";
+
+/* Class = "UINavigationItem"; title = "My Profile"; ObjectID = "HJb-4n-B7x"; */
+"HJb-4n-B7x.title" = "Мой профиль";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "; ObjectID = "Knl-xU-aMh"; */
+"Knl-xU-aMh.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ";
+
+/* Class = "UIButton"; normalTitle = "LOGOUT"; ObjectID = "L3l-hC-gKU"; */
+"L3l-hC-gKU.normalTitle" = "ВЫЙТИ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "LHg-zh-234"; */
+"LHg-zh-234.placeholder" = "EMAIL";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "ROF-gN-4b6"; */
+"ROF-gN-4b6.normalTitle" = "ВОЙТИ";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "RZI-pa-E0c"; */
+"RZI-pa-E0c.text" = "Подзаголовок";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Rv5-f5-DG8"; */
+"Rv5-f5-DG8.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "SbH-EB-akk"; */
+"SbH-EB-akk.text" = "Подзагоовок";
+
+/* Class = "UINavigationItem"; title = "Add Task"; ObjectID = "TbC-Ob-Fam"; */
+"TbC-Ob-Fam.title" = "Добавить задание";
+
+/* Class = "UIButton"; normalTitle = "CREATE ACCOUNT"; ObjectID = "WCw-QV-wda"; */
+"WCw-QV-wda.normalTitle" = "СОЗДАТЬ АККАУНТ";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "WJp-Du-nBi"; */
+"WJp-Du-nBi.text" = "имя";
+
+/* Class = "UILabel"; text = "Big"; ObjectID = "Wxx-CX-Vco"; */
+"Wxx-CX-Vco.text" = "Big";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN WITH EMAIL"; ObjectID = "XQC-5x-Bl5"; */
+"XQC-5x-Bl5.normalTitle" = "ВОЙТИ С EMAIL";
+
+/* Class = "UITextField"; placeholder = "ENTER YOUR EMAIL"; ObjectID = "ZIs-3d-cv3"; */
+"ZIs-3d-cv3.placeholder" = "ВВЕДИТЕ EMAIL";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "d7y-rC-fat"; */
+"d7y-rC-fat.text" = "Урок";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "dFR-4D-PYJ"; */
+"dFR-4D-PYJ.text" = "Название";
+
+/* Class = "UITextField"; placeholder = "NAME"; ObjectID = "dxO-U9-bgu"; */
+"dxO-U9-bgu.placeholder" = "ИМЯ";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "eOG-VY-eOG"; */
+"eOG-VY-eOG.text" = "Начни с";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ezO-Ce-1c9"; */
+"ezO-Ce-1c9.text" = "Текст";
+
+/* Class = "UIButton"; normalTitle = "TO SUBMISSION"; ObjectID = "fni-ZA-Up9"; */
+"fni-ZA-Up9.normalTitle" = "СДАЧА";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "g71-Ig-VsO"; */
+"g71-Ig-VsO.text" = "Дата";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN WITH FACEBOOK"; ObjectID = "hd1-Np-GFX"; */
+"hd1-Np-GFX.normalTitle" = "ВОЙТИ С FACEBOOK";
+
+/* Class = "UITextField"; placeholder = "ENTER YOUR PASSWORD"; ObjectID = "iPT-Ej-MVg"; */
+"iPT-Ej-MVg.placeholder" = "ВВЕДИТЕ ПАРОЛЬ";
+
+/* Class = "UILabel"; text = "Task type"; ObjectID = "jJ7-Bt-Bww"; */
+"jJ7-Bt-Bww.text" = "Тип задачи";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jnf-r3-v2Q"; */
+"jnf-r3-v2Q.text" = "Заголовок";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "le9-F2-fb8"; */
+"le9-F2-fb8.title" = "Детали";
+
+/* Class = "UISegmentedControl"; mBd-72-CF7.segmentTitles[0] = "Math"; ObjectID = "mBd-72-CF7"; */
+"mBd-72-CF7.segmentTitles[0]" = "Математика";
+
+/* Class = "UISegmentedControl"; mBd-72-CF7.segmentTitles[1] = "Kazakh"; ObjectID = "mBd-72-CF7"; */
+"mBd-72-CF7.segmentTitles[1]" = "Казахский";
+
+/* Class = "UISegmentedControl"; mBd-72-CF7.segmentTitles[2] = "English"; ObjectID = "mBd-72-CF7"; */
+"mBd-72-CF7.segmentTitles[2]" = "Английский";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "npo-Kq-fgt"; */
+"npo-Kq-fgt.normalTitle" = "ЗАБЫЛИ ПАРОЛЬ?";
+
+/* Class = "UIButton"; normalTitle = "RESET MY PASSWORD"; ObjectID = "o7i-sM-fUv"; */
+"o7i-sM-fUv.normalTitle" = "ИЗМЕНИТЬ ПАРОЛЬ";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN WITH GOOGLE"; ObjectID = "pjH-4u-fsO"; */
+"pjH-4u-fsO.normalTitle" = "ВОЙТИ С GOOGLE";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "qah-Ui-RzY"; */
+"qah-Ui-RzY.normalTitle" = "СДАТЬ";
+
+/* Class = "UITabBarItem"; title = "Dig"; ObjectID = "vWK-IA-JLE"; */
+"vWK-IA-JLE.title" = "Dig";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "wHd-P4-7wO"; */
+"wHd-P4-7wO.title" = "Отмена";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x0d-sw-Dbt"; */
+"x0d-sw-Dbt.text" = "Текст";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "yFV-Pf-5Gz"; */
+"yFV-Pf-5Gz.title" = "Аккаунт";
