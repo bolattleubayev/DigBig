@@ -5,7 +5,7 @@
 
 This project was done for ideaTHON 2020 by NU Alumni Union in May 2020. The project was ranked 5th out of 15 teams by the jury team.
 
-The application was done in Swift using Firebase, it was localized for Russian language. Also the keys for Facebook, Google, and Firebase APIs were removed, so to run the an you will need to use your own
+The application was done in Swift using Firebase, it was localized for Russian language. Also the keys for Facebook, Google, and Firebase APIs were removed, so to run the app you will need to use your own
 
 * _The Launch Screen_ contains only logo on empty background.
 
@@ -45,6 +45,6 @@ Below you can see the Profile screen.
   <img src="images/scr6.png" width="200" />
 </p>
 
-Click on image below to be redirected to the YouTube demos:
+Click on image below to be redirected to the YouTube demo (in Russian):
 
 [![Video](https://img.youtube.com/vi/zEh7MNkYoOY/0.jpg)](https://www.youtube.com/watch?v=zEh7MNkYoOY)
